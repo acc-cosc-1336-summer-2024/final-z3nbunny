@@ -1,5 +1,5 @@
 #write functions here, don't add input('') statements here!
-from stock import Stock
+from Stock import Stock
 
 def stock_purchase_history():
     apple_stock = Stock('AAPL', 'Apple Inc')
